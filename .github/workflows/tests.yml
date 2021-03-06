@@ -1,6 +1,6 @@
 name: GitHub Actions CI
 on:
-  push:
+  push:play game for ever win 
     branches: master
   pull_request: []
 jobs:
